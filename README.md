@@ -2,8 +2,12 @@
 # Equity Research — DCF Valuation Models
 Independent fundamental analysis built from SEC 10-K filings, earnings transcripts, and public market data.
 
-Company covered      Sector           Implied Price    Market Price      View
-Broadcom (AVGO)      Semiconductor        $133            $462         Overvalued 
+Company covered - Broadcom
+Ticker- AVGO
+Sector- Semiconductor 
+Implied Price - $133
+Market Price - $462
+View - Overvalued 
 
 Methodology
 
